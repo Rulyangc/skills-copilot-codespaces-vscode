@@ -33,6 +33,20 @@ GitHub Copilot is an AI pair programmer that helps you write code faster and wit
 
 Additionally, GitHub Copilot is trained on all languages that appear in public repositories. For each language, the quality of suggestions you receive may depend on the volume and diversity of training data for that language.
 
+### Multilingual Support / Suporte Multilíngue
+
+GitHub Copilot supports multiple programming languages and can even understand comments in different human languages. For example:
+
+GitHub Copilot suporta várias linguagens de programação e pode até entender comentários em diferentes idiomas humanos. Por exemplo:
+
+```javascript
+// Sim, eu falo português! GitHub Copilot pode ajudar em vários idiomas.
+// Yes, I speak Portuguese! GitHub Copilot can help in multiple languages.
+function cumprimentar(nome) {
+    return `Olá, ${nome}! Bem-vindo ao GitHub Copilot!`;
+}
+```
+
 Using Copilot inside a Codespace shows just how easy it is to get up and running with GitHub's suite of [Collaborative Coding](https://github.com/features#features-collaboration) tools.
 
 > **Note**
